@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.flowbee.app", 
+      "package_name": "com.flowbee.app",
       "sha256_cert_fingerprints": [
-        "12:34:56:78:9A:BC:DE:F0:12:34:56:78:9A:BC:DE:F0:12:34:56:78:9A:BC:DE:F0:12:34:56:78:9A:BC:DE:F0"
+        "4F:3D:45:F8:02:CC:A9:EF:8C:59:D1:C8:9E:AF:CF:98:D6:B5:09:C4:17:46:47:B0:FE:B3:76:FF:A9:EF:38:AA"
       ]
     }
   }
